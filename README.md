@@ -1,5 +1,5 @@
-# understanding-deep-learning
-Learning Deep Learning by Jupiter Notebook Files by Simon J.D. Prince
+# understanding-deep-learning jupyter notebook module files
+These are jupyter notebook exercises I completed while autodidacting Learning Deep Learning by Simon J.D. Prince
 
 Citation
 
