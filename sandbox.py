@@ -4,7 +4,6 @@ The purpose of this file is for testing and playing around with matplotlib, nump
 
 '''
 
-
 # Libraries that are used often in Machine Learning 
 
 # This first one is matplotlib, it is used for plotting functions
